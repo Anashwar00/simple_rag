@@ -29,7 +29,7 @@ This project is a **Retrieval-Augmented Generation (RAG)** application that allo
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Anashwar00/simple_rag/tree/main
+git clone https://github.com/Anashwar00/simple_rag
 cd simple_rag
 ```
 ### 2. Install dependencies
